@@ -1,0 +1,189 @@
+Terms of Use
+
+Last updated: February 2026
+
+These Terms of Service (“Terms”) govern your access to and use of the AI Mixer – AI Generator mobile application and related services (the “Service”), operated by Artem Shcherbachuk (“AI Mixer”, “we”, “our”, or “us”).
+
+By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree, please do not use the App.
+
+⸻
+
+1. Description of the Service
+
+AI Mixer is an AI-powered application that allows users to generate:
+
+• AI photos
+• AI videos
+• AI audio and voice content
+
+The App operates on a credit-based system and offers optional auto-renewing subscription plans.
+
+⸻
+
+2. Credits System
+
+2.1 Credits Usage
+
+• Credits are required to perform AI generation requests.
+• Different features and AI models may require different amounts of credits.
+• Credit costs may vary depending on content type and selected AI model.
+
+2.2 Credits Purchase
+
+• Credits can be purchased through in-app purchases.
+• All payments are processed through Apple’s App Store.
+• We do not store or have access to your full payment details.
+• Credits have no cash value and are non-transferable.
+
+2.3 Credit Expiration
+
+Unless otherwise stated, credits do not expire while the App is active. We reserve the right to modify credit policies in the future with prior notice.
+
+⸻
+
+3. Subscription Plans
+
+3.1 Subscription Benefits
+
+An optional subscription may provide:
+
+• Discounted credit usage (e.g., 50% discount)
+• Access to advanced and premium AI models
+• Priority access to new features (where applicable)
+
+Subscription benefits may vary depending on the selected plan.
+
+⸻
+
+3.2 Subscription Billing
+
+• Subscriptions are billed on a recurring basis (weekly, monthly, or annually, depending on the selected plan).
+• Payment will be charged to your Apple ID account at confirmation of purchase.
+• Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period.
+• Your Apple ID account will be charged for renewal within 24 hours prior to the end of the current period at the price of the selected plan.
+• The renewal price will be the same as the original subscription price unless otherwise disclosed at the time of purchase.
+
+⸻
+
+3.3 Managing and Canceling Subscriptions
+
+You may manage or cancel your subscription at any time through your Apple ID account settings:
+
+App Store → Apple ID → Subscriptions
+
+Deleting the App does not cancel your subscription.
+
+⸻
+
+3.4 Free Trials and Promotional Offers
+
+If a subscription includes a free trial period, any unused portion of the trial will be forfeited when you purchase a subscription, where applicable.
+
+Promotional pricing or discounts may be offered from time to time and may be subject to additional terms.
+
+⸻
+
+4. Refund Policy
+
+All purchases and subscriptions are processed by Apple and are subject to Apple’s refund policies.
+
+We do not process refunds directly. Refund requests must be submitted to Apple through the App Store support system.
+
+⸻
+
+5. User Content
+
+5.1 Ownership
+
+You retain ownership of any content you upload, including photos, videos, audio, and text.
+
+5.2 License to Process
+
+By using the App, you grant AI Mixer a limited, non-exclusive, royalty-free license to process your content solely for the purpose of providing AI-generated results.
+
+We do not claim ownership of your uploaded content.
+
+5.3 Prohibited Content
+
+You agree not to upload or generate content that:
+
+• Is illegal, abusive, hateful, or harassing
+• Violates intellectual property rights
+• Contains explicit, harmful, or exploitative material
+• Violates the privacy or personal rights of others
+
+We reserve the right to restrict, suspend, or terminate access for violations.
+
+⸻
+
+6. AI-Generated Content Disclaimer
+
+• AI-generated results are produced algorithmically and may not always be accurate, complete, or realistic.
+• AI Mixer does not guarantee specific outcomes or results.
+• Generated content should not be considered professional, legal, financial, or medical advice.
+
+Use generated content at your own discretion.
+
+⸻
+
+7. Intellectual Property
+
+All App design elements, branding, logos, graphics, and UI components are the intellectual property of AI Mixer and may not be copied, modified, or redistributed without prior written permission.
+
+⸻
+
+8. Service Availability
+
+We reserve the right to:
+
+• Modify, suspend, or discontinue features
+• Update AI models
+• Change subscription pricing or credit costs
+
+We are not liable for service interruptions, outages, or technical issues beyond our reasonable control.
+
+⸻
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, AI Mixer shall not be liable for:
+
+• Data loss
+• Content inaccuracies
+• Indirect, incidental, or consequential damages
+• Misuse of generated content
+
+Your use of the App is at your own risk.
+
+⸻
+
+10. Termination
+
+We may suspend or terminate access to the App if:
+
+• These Terms are violated
+• Fraudulent or abusive behavior is detected
+• The Service is misused
+
+⸻
+
+11. Governing Law
+
+These Terms are governed by applicable laws, without regard to conflict of law principles.
+
+⸻
+
+12. Changes to Terms
+
+We may update these Terms from time to time. Changes will be posted on this page with an updated date.
+
+Continued use of the App after changes are posted constitutes acceptance of the updated Terms.
+
+⸻
+
+13. Contact Information
+
+If you have any questions regarding these Terms:
+
+📧 Email: aimixerapp@gmail.com
+🌐 Website: https://aimixer.app

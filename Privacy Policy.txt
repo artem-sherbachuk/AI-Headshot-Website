@@ -1,0 +1,155 @@
+Privacy Policy
+
+Last updated: (February 2026)
+
+AI Mixer (“we”, “our”, or “us”) respects your privacy and is committed to protecting it through this Privacy Policy. This document explains how we collect, use, and safeguard your information when you use the AI Mixer – AI Generator mobile application and related services.
+
+⸻
+
+1. Information We Collect
+
+We may collect the following types of information:
+
+1.1 Personal Information
+AI Mixer does not require account registration and does not collect personally identifiable information such as your name, email address, or phone number.
+
+1.2 User Content
+When you use AI Mixer, you may upload:
+	•	Photos
+	•	Videos
+	•	Audio files
+	•	Text prompts
+
+This content is used only to provide the requested AI features (AI photo, video, and voice generation).
+
+Uploaded content may be temporarily stored on our servers to process requests and deliver results.
+
+1.3 Usage Data
+We collect anonymized usage data through Firebase Analytics, such as:
+	•	App interactions
+	•	Feature usage
+	•	Crash reports
+	•	Device type and OS version
+
+This data helps us improve app performance and user experience.
+
+1.4 Face Data
+AI Photo & Video Generation
+When you use AI generation features (such as Face Swap, image-to-image, or image-to-video), your uploaded photo may contain facial imagery. This photo may be transmitted to the third-party AI providers listed in Section 3 solely to generate the requested result. We do not extract, store, or use any biometric facial data such as face geometry or facial recognition identifiers. Uploaded photos are deleted from the server after the result is delivered. Face data is not shared with any third parties for advertising, analytics, or any other unrelated purpose.
+
+Lip Detection for Subtitle Alignment (Video Editor)
+The app uses Apple's Vision framework to detect facial landmark positions (such as lip coordinates) for the purpose of aligning subtitles with the speaker's mouth in the video editor. This processing is performed entirely on the user's device using Apple's on-device APIs. No facial landmark data is transmitted to any server, stored persistently, or shared with any third party. The data exists only in device memory during active use and is discarded immediately when processing is complete.
+
+⸻
+
+2. How We Use Your Information
+
+We use collected data to:
+	•	Provide and improve AI features
+	•	Process user-generated content
+	•	Monitor app stability and performance
+	•	Analyze usage trends
+	•	Fix bugs and improve functionality
+
+We do not sell, rent, or trade your data to third parties.
+
+⸻
+
+3. Third-Party AI Processing
+
+To provide AI-powered features (including AI photo generation, video generation, voice synthesis, and AI chat), AI Mixer transmits user-submitted content to third-party AI service providers for processing.
+
+3.1 What Data Is Transmitted
+
+When you use AI features, the following data may be transmitted:
+
+• Text prompts
+• Uploaded photos or videos
+• Audio recordings
+• Generated outputs
+• Technical metadata necessary to process the request (e.g., model selection, request ID)
+
+We do not transmit name, email address, contact lists, or other direct identifiers.
+
+3.2 AI Service Providers
+
+AI Mixer may use the following AI providers and infrastructure partners:
+
+• OpenAI (ChatGPT)
+• Google (Gemini)
+• ElevenLabs
+• Kling AI
+• Sora
+• Veo
+• WAN
+• Firebase Storage – temporary storage of user-uploaded content
+
+These providers process user content solely to generate the requested output.
+
+3.3 Purpose of Processing
+
+User content is transmitted only when the user actively initiates an AI generation request.
+The data is used exclusively to generate the requested result.
+
+We do not use user content for advertising purposes.
+
+By initiating an AI generation request within the app, users acknowledge and consent to the transmission of their content to the AI providers described above.
+
+3.4 Data Retention
+
+User-submitted content is stored only as long as necessary to process and deliver the requested result.
+
+Content is automatically deleted after processing is completed.
+
+We do not create persistent user profiles based on AI inputs. 
+
+3.5 AI Model Training
+
+AI Mixer does not use user content to train its own AI models.
+Third-party AI providers may process content in accordance with their own privacy policies and data processing terms.
+
+Users are encouraged to review the privacy policies of those providers for additional details.
+
+⸻
+
+4. Data Storage and Security
+
+We implement reasonable security measures to protect your data.
+User-generated content is stored only as long as necessary to provide the service and may be automatically deleted after processing.
+
+However, no method of transmission over the internet or electronic storage is 100% secure.
+
+⸻
+
+5. User Rights
+
+You have the right to:
+	•	Stop using the app at any time
+	•	Remove the app from your device
+
+Since we do not collect personal accounts or identifiable data, there is no user profile data stored.
+
+⸻
+
+6. Children’s Privacy
+
+AI Mixer is not intended for children under the age of 13.
+We do not knowingly collect personal information from children.
+
+⸻
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+Any changes will be posted on this page with an updated “Last updated” date.
+
+Continued use of the app after changes means you accept the updated policy.
+
+⸻
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us:
+
+📧 Email: aimixerapp@gmail.com
+🌐 Website: https://aimixer.app
