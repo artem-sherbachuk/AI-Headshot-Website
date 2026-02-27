@@ -1,155 +1,131 @@
 Privacy Policy
 
-Last updated: (February 2026)
+Last updated: February 2026
 
-AI Mixer (“we”, “our”, or “us”) respects your privacy and is committed to protecting it through this Privacy Policy. This document explains how we collect, use, and safeguard your information when you use the AI Mixer – AI Generator mobile application and related services.
+Professional Headshot – AI Photo (“Headshot App”, “we”, “our”, or “us”) respects your privacy and is committed to protecting it through this Privacy Policy. This document explains how we collect, use, and safeguard information when you use the Professional Headshot – AI Photo mobile application and related services (the “App” or “Service”).
 
 ⸻
 
 1. Information We Collect
 
-We may collect the following types of information:
+1.1 Personal Information  
+The App does not require account registration and does not collect your name, email address, phone number, or other direct identifiers to create a user account.
 
-1.1 Personal Information
-AI Mixer does not require account registration and does not collect personally identifiable information such as your name, email address, or phone number.
+1.2 User Content (Photos)  
+When you use the App, you may upload photos to generate professional headshots and document-style photos (e.g., passport/ID/DV Lottery formats).
 
-1.2 User Content
-When you use AI Mixer, you may upload:
-	•	Photos
-	•	Videos
-	•	Audio files
-	•	Text prompts
+Your uploaded photos are processed solely to provide the output you requested.
 
-This content is used only to provide the requested AI features (AI photo, video, and voice generation).
+Uploaded photos may be temporarily stored and transmitted to secure servers to process your request and deliver results.
 
-Uploaded content may be temporarily stored on our servers to process requests and deliver results.
+1.3 Generated Outputs  
+The App produces AI-processed images (generated outputs). Generated images may be stored:
+• Locally on your device if you choose to save them, and/or  
+• Temporarily on our servers to deliver the result to you.
 
-1.3 Usage Data
-We collect anonymized usage data through Firebase Analytics, such as:
-	•	App interactions
-	•	Feature usage
-	•	Crash reports
-	•	Device type and OS version
+1.4 Usage Data (Analytics & Diagnostics)  
+We collect limited, anonymized usage and diagnostics data to improve stability and performance, such as:
+• App interactions (feature usage)  
+• Crash reports  
+• Device type and operating system version  
 
-This data helps us improve app performance and user experience.
-
-1.4 Face Data
-AI Photo & Video Generation
-When you use AI generation features (such as Face Swap, image-to-image, or image-to-video), your uploaded photo may contain facial imagery. This photo may be transmitted to the third-party AI providers listed in Section 3 solely to generate the requested result. We do not extract, store, or use any biometric facial data such as face geometry or facial recognition identifiers. Uploaded photos are deleted from the server after the result is delivered. Face data is not shared with any third parties for advertising, analytics, or any other unrelated purpose.
-
-Lip Detection for Subtitle Alignment (Video Editor)
-The app uses Apple's Vision framework to detect facial landmark positions (such as lip coordinates) for the purpose of aligning subtitles with the speaker's mouth in the video editor. This processing is performed entirely on the user's device using Apple's on-device APIs. No facial landmark data is transmitted to any server, stored persistently, or shared with any third party. The data exists only in device memory during active use and is discarded immediately when processing is complete.
+We use Firebase Analytics and Firebase Crashlytics for these purposes.
 
 ⸻
 
-2. How We Use Your Information
+2. How We Use Information
 
-We use collected data to:
-	•	Provide and improve AI features
-	•	Process user-generated content
-	•	Monitor app stability and performance
-	•	Analyze usage trends
-	•	Fix bugs and improve functionality
+We use information solely to:
+• Process your photo and deliver the requested generated result  
+• Operate and maintain the Service  
+• Improve app reliability and performance (analytics/diagnostics)  
+• Prevent abuse, fraud, or misuse  
 
-We do not sell, rent, or trade your data to third parties.
-
-⸻
-
-3. Third-Party AI Processing
-
-To provide AI-powered features (including AI photo generation, video generation, voice synthesis, and AI chat), AI Mixer transmits user-submitted content to third-party AI service providers for processing.
-
-3.1 What Data Is Transmitted
-
-When you use AI features, the following data may be transmitted:
-
-• Text prompts
-• Uploaded photos or videos
-• Audio recordings
-• Generated outputs
-• Technical metadata necessary to process the request (e.g., model selection, request ID)
-
-We do not transmit name, email address, contact lists, or other direct identifiers.
-
-3.2 AI Service Providers
-
-AI Mixer may use the following AI providers and infrastructure partners:
-
-• OpenAI (ChatGPT)
-• Google (Gemini)
-• ElevenLabs
-• Kling AI
-• Sora
-• Veo
-• WAN
-• Firebase Storage – temporary storage of user-uploaded content
-
-These providers process user content solely to generate the requested output.
-
-3.3 Purpose of Processing
-
-User content is transmitted only when the user actively initiates an AI generation request.
-The data is used exclusively to generate the requested result.
-
-We do not use user content for advertising purposes.
-
-By initiating an AI generation request within the app, users acknowledge and consent to the transmission of their content to the AI providers described above.
-
-3.4 Data Retention
-
-User-submitted content is stored only as long as necessary to process and deliver the requested result.
-
-Content is automatically deleted after processing is completed.
-
-We do not create persistent user profiles based on AI inputs. 
-
-3.5 AI Model Training
-
-AI Mixer does not use user content to train its own AI models.
-Third-party AI providers may process content in accordance with their own privacy policies and data processing terms.
-
-Users are encouraged to review the privacy policies of those providers for additional details.
+We do not sell user photos or personal data, and we do not use your photos for advertising.
 
 ⸻
 
-4. Data Storage and Security
+3. Third-Party Processing & Infrastructure
 
-We implement reasonable security measures to protect your data.
-User-generated content is stored only as long as necessary to provide the service and may be automatically deleted after processing.
+To provide AI-powered image processing, the App uses third-party infrastructure and AI services.
 
-However, no method of transmission over the internet or electronic storage is 100% secure.
+3.1 AI Processing Provider (Google Gemini / Nano Banana)  
+The App uses Google Gemini (Nano Banana / Nano Banana PRO workflow) for image processing.
+
+When you initiate a generation request, we may transmit:
+• The photo you uploaded  
+• Your selected style/format parameters (e.g., aspect ratio, preset selection)  
+• Technical metadata required to process the request (e.g., request ID, webhook ID)
+
+We do not transmit your contacts, messages, or other unrelated device data.
+
+3.2 Cloud Infrastructure (Firebase / Google Cloud)  
+We use Firebase services (including Firebase Cloud Functions, Firebase Storage, Firebase Firestore, Firebase Analytics, and Firebase Crashlytics) to:
+• Receive upload requests and securely relay them to the AI processing provider  
+• Temporarily store photos and generated outputs needed to complete delivery  
+• Send notifications about completion (where enabled)  
+• Collect anonymized analytics and crash diagnostics
+
+3.3 Purpose Limitation  
+Your photos are transmitted only when you actively request generation. Data is used exclusively to:
+• Process the requested headshot/document photo  
+• Return the generated result to you
+
+We do not use user photos for profiling, targeted advertising, or marketing.
+
+3.4 Retention and Deletion  
+We aim to minimize retention:
+• Uploaded photos are kept only as long as necessary to process your request and deliver the output.  
+• After processing is completed and the result is delivered, uploaded photos are deleted from our storage.  
+• Generated outputs may be temporarily stored to allow you to download/save them, and may be deleted after delivery/expiration of temporary links.
+
+Important: Third-party providers may process data according to their own terms. We recommend reviewing the privacy policies of Google and Firebase for additional details.
+
+3.5 Model Training  
+We do not use your uploaded photos to train our own models. We do not build biometric profiles or facial recognition templates.
 
 ⸻
 
-5. User Rights
+4. Face Data
 
-You have the right to:
-	•	Stop using the app at any time
-	•	Remove the app from your device
+Your uploaded photos may contain facial imagery. We do NOT:
+• Extract or store facial geometry templates  
+• Perform facial recognition or identify you  
+• Sell or share facial imagery for advertising or tracking  
 
-Since we do not collect personal accounts or identifiable data, there is no user profile data stored.
+Facial imagery is used only to generate the result you requested and is deleted from our servers after processing/delivery as described above.
+
+⸻
+
+5. Data Security
+
+We implement reasonable technical and organizational measures to protect your data. However, no method of transmission or storage is completely secure.
 
 ⸻
 
 6. Children’s Privacy
 
-AI Mixer is not intended for children under the age of 13.
-We do not knowingly collect personal information from children.
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children.
 
 ⸻
 
-7. Changes to This Privacy Policy
+7. Your Rights
 
-We may update this Privacy Policy from time to time.
-Any changes will be posted on this page with an updated “Last updated” date.
+You may stop using the App at any time and delete the App from your device.
 
-Continued use of the app after changes means you accept the updated policy.
+If you have questions about deletion/retention, please contact us at the email below.
 
 ⸻
 
-8. Contact Us
+8. Changes to This Privacy Policy
 
-If you have any questions or concerns about this Privacy Policy, please contact us:
+We may update this Privacy Policy from time to time. We will revise the “Last updated” date when changes are posted. Continued use of the App after changes are posted constitutes acceptance of the updated policy.
 
-📧 Email: aimixerapp@gmail.com
-🌐 Website: https://aimixer.app
+⸻
+
+9. Contact Us
+
+If you have questions about this Privacy Policy:
+
+📧 Email: aiheadshotsapp@gmail.com
+🌐 Website: https://ai-headshot.app
